@@ -1,8 +1,8 @@
 # 🧬 Sequence Analysis Toolkit
 
-A comprehensive toolkit for analyzing DNA sequences using computational and probabilistic methods. This collection includes scripts for genome assembly, motif discovery, transcription factor binding site classification, Hidden Markov Model (HMM) training and inference, and minimizer-based sequence alignment.
+A  toolkit for analyzing DNA sequences using computational and probabilistic methods. This collection includes scripts for genome assembly, motif discovery, transcription factor binding site classification, Hidden Markov Model (HMM) training and inference, and minimizer-based sequence alignment.
 
-Each script is built from scratch using core Python and NumPy to provide an educational, interpretable implementation of key algorithms in bioinformatics.
+Each script is built from scratch and is my attempt to understand and interpret key algorithms in bioinformatics.
 
 ---
 
